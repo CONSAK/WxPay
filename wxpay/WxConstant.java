@@ -1,10 +1,10 @@
 package com.ajb.robot.wxpay;
 
 public class WxConstant {
-    public static final String APP_ID = "wx9ff89bf74a9dc714";                       //微信平台应用id
-    public static final String APP_SECRET = "33aa6afb51cd4fb4710edead0b1282c1";     //应用对应的凭证
-    public static final String MAH_ID = "1370626502";                               //商业号
-    public static final String API_KEY = "146968940321b9814813e6494adfae0b";        //API KEY
+    public static final String APP_ID = "******";                       //微信平台应用id
+    public static final String APP_SECRET = "******";     //应用对应的凭证
+    public static final String MAH_ID = "********";                               //商业号
+    public static final String API_KEY = "********";        //API KEY
 
     public static final String FAIL = "FAIL";
     public static final String SUCCESS = "SUCCESS";
